@@ -1,0 +1,8 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+data	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^            $data = $response->getData();$/;"	v	language:PHP
+getProfilingData	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^    protected function getProfilingData()$/;"	f	language:PHP
+handle	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^    public function handle(Request $request, Closure $next)$/;"	f	language:PHP
+ProfileJsonResponse	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^class ProfileJsonResponse$/;"	c	language:PHP
+profilingData	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^    protected $profilingData = [];$/;"	v	language:PHP
+profilingData	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^    protected $profilingData = [];$/;"	v	language:PHP
+response	/Users/alik/Projects/www/components/laravel/profile-json-response/src/middleware/ProfileJsonResponse.php	/^        $response = $next($request);$/;"	v	language:PHP

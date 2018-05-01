@@ -49,7 +49,7 @@ class ProfileJsonResponse
             return $response;
         }
 
-        if ($response instanceof JsonResponse && $response->has('profile')) {
+        if ($response instanceof JsonResponse && $request->has('profile')) {
             $data = $response->getData();
             if (is_array($data)) {
                 $response->setData(array_merge($data, [
