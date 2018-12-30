@@ -1,5 +1,5 @@
 {
-    "name": "larapackages/profile-json-response",
+    "name": "coder-packages/profile-json-response",
     "description": "Profiling JSON responses in Laravel",
     "keywords": ["laravel", "profiling"],
     "type": "library",
